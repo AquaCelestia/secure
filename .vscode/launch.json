@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run bot.js",
+        "type": "node",
+        "request": "launch",
+        "program": "${workspaceFolder}/bot.js",
+        "stopOnEntry": false,
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "protocol": "inspector",
+        "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe",
+        "runtimeArgs": [],
+        "env": {},
+        "sourceMaps": false,
+        "console": "integratedTerminal",
+        "internalConsoleOptions": "neverOpen"
+      }
+    ]
+  }
+  
